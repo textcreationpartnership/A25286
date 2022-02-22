@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sad estate and condition of Ireland as represented in a letter from a worthy person, who was in Dublin on Friday last, to the Honourable Sir ---- : together with the declaration of the Earl of Tyrconnel for the disarming all Protestants, and preventing their escape out of that kingdom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25286</idno>
+            <idno type="STC">Wing A2A</idno>
+            <idno type="STC">ESTC R3136</idno>
+            <idno type="EEBO-CITATION">12891168</idno>
+            <idno type="OCLC">ocm 12891168</idno>
+            <idno type="VID">95102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25286)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Sad estate and condition of Ireland as represented in a letter from a worthy person, who was in Dublin on Friday last, to the Honourable Sir ---- : together with the declaration of the Earl of Tyrconnel for the disarming all Protestants, and preventing their escape out of that kingdom.</title>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+                  <author>A. A.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First letter signed: A.A.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1688-1689.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95102:1"/>
+            <pb facs="tcp:95102:1"/>
+            <p>THE Sad Eſtate and Condition OF IRELAND, AS, Repreſented in a Letter from a Worthy Perſon, who was in <hi>Dublin</hi> on <hi>Friday</hi> laſt, to the Honourable Sir — Together with the DECLARATION OF THE <hi>Earl of Tyrconnel,</hi> FOR THE Diſarming all Proteſtants, and prevent<g ref="char:EOLhyphen"/>ing their Eſcape out of that Kingdom.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Black-Bull</hi> in in the <hi>Old-Bailey.</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:95102:2"/>
+            <pb n="3" facs="tcp:95102:2"/>
+            <opener>
+               <dateline>CHESTER, <date>March 4. 1689.</date>
+               </dateline>
+            </opener>
+            <p>I Have at laſt (I thank God) tho' with much Hazard and Difficulty, eſcaped the Ruines of my Country, for Major <hi>Arthur Dillon</hi> (who is juſt recovering from a Fit of Sickneſs) having procured a Licence to be tranſported, with his Servant; in that diſguiſe, and under the Name of his Man <hi>George,</hi> I got away. And as I cannot approve of the over-haſty Flight of many of our Nation, whoſe diſſertion has perhaps put our Affairs in a much worſe Poſture there, ſo, I believe, you will judge, I rather ſtaid a little too long, by the following ſad but true account of that unhappy Iſland.</p>
+            <p>After the Dragoons and other new raiſed Soldiers had (with Connivance) deſtroyed the Cattle and plundered ſe<g ref="char:EOLhyphen"/>veral private Perſons, in moſt Placer of the Country; laſt <hi>Sunday</hi> was Sennight, ten thouſand of the neighbouring Troops and Companies were ordered privately to draw near the Town, and the Deſign was managed with more Secreſie and better Conduct than one could expect from their uſual Pru<g ref="char:EOLhyphen"/>dence and Politicks; for on <hi>Monday</hi> Morning by break of Day, without any Alarm of Drum or Trumpet, they ſeiz'd all the Skirts of the City, and planted themſelves at the Heads and Turning of every Street: At ſeven a Clock three ſelect Companies, commanded by Captain <hi>Talbot,</hi> marched ſilently towards the College; and ſome who went before, by an Iriſh Stratagem (that is by telling a Lie to the Porter) got admiſſion into the Gate; which they preſently ſeized, and drew their Men into the Court. They came prepared to meet with Oppoſition, having a Basket of Hand-Granadoes,
+<pb n="4" facs="tcp:95102:3"/>ready charged, and Orders to kill every Man that reſiſted. The Captain (having called for the Vice-Provoſt and Fel<g ref="char:EOLhyphen"/>lows) declared, How he was commanded by my Lord De<g ref="char:EOLhyphen"/>puty to ſearch ſtrictly for Arms and Ammunition, being aſ<g ref="char:EOLhyphen"/>ſured, That there was a conſiderable Magazine of both lodg<g ref="char:EOLhyphen"/>ed among us. We attended him and his Officers to every Chamber, where they examined all Places, and found but very few Arms: They quartered upon us all that Day and the next, and kept ſtrict Guards upon our Gates and Paſſa<g ref="char:EOLhyphen"/>ges: While this was doing in the College, others were em<g ref="char:EOLhyphen"/>ployed in the ſame Work in all Parts of the Town, and uſed the Citizens more barbarouſly than we were; who had the good Fortune to have a civil Officer. About two Hours after the Search for Arms the Dragoons and Horſe-Granadiers, went about and broke open all Stables, and ſeized the Horſes, which were driven to ſeveral Quarters of the Town, and there divided by Lot among the Officers and Troopers. I loſt my two Horſes, which were too low, I am ſure, for any Service, but nothing would ſecure them. The Arms that were taken, were lodg'd in the Pariſh Churches, with Guards upon them, where they continu'd for ſome time; at laſt when all this hurry was a little over, which was not acted without much violence and pilfering, and ſome blood, a De<g ref="char:EOLhyphen"/>claration was publiſh'd (the Copy of which I here incloſe) which moſt Proteſtants look'd upon as a ſnare, and ſpecious pretence to plunder their Houſes, becauſe if upon ſearch hereafter any Arms be found (and how eaſie is it for Soldi<g ref="char:EOLhyphen"/>ers in ſuch Confuſion to drop Arms, and ſay they found them there) ſuch Houſes are expoſed to the extravagancy and ra<g ref="char:EOLhyphen"/>pine of the Soldiers. In the Country things were managed with more ſeverity, and ſome few who, made oppoſition, were plundered of all, Nay, even thoſe who had my Lord Deputy's Protection, and Licence too keep Arms to defend their Houſes, were beſieged, and more hardly uſed on that very ſcore: Among others Sir <hi>Arthur Langford,</hi> Mr. <hi>Barton</hi> of <hi>Carrickmacroſs,</hi> and Mr. <hi>Price</hi> (formerly Treaſurer) are ſad inſtances, having loſt all their Goods, and ſome of them made Priſoners; Sir <hi>Thomas Newcomen</hi> too (I fear) is in
+<pb n="5" facs="tcp:95102:3"/>the ſame Circumſtances, being told, that (though he had a Protection and Licence for Arms for twenty Men) they broke into his Houſe, and have not left him worth a Farth<g ref="char:EOLhyphen"/>ing: I could tell you one hundred melancholy ſtories of this ſort, for every day brought in freſh account; And on the other ſide, you cannot imagine how much this ſucceſs has fluſh'd the new Soldiers and my Lord Deputy's Party, they talk with contempt of your <hi>Engliſh</hi> Succors, deſpiſe your new Government, laugh at your Diviſions, and ſpeak loudly of Invading you within a few months; Indeed (if the looſer may may be allowed to ſpeak) moſt of our Miſeries are ow<g ref="char:EOLhyphen"/>ing to the daily promiſes and expectation of Forces from <hi>England,</hi> for as thoſe hopes encouraged our Friends in the North and <hi>Sligo</hi> to Aſſociate; and conſequently expoſe the poor remnant of Proteſtants in <hi>Leinſter</hi> and <hi>Connaught</hi> to the mercy of their Enemies; So this tedious diſappointment will (I fear) make them deſperate, and accept of any Con<g ref="char:EOLhyphen"/>ditions from the Government, and lay down their Arms, ſince they find they are ſo much neglected and forgotten in <hi>England.</hi> I forgot to tell you that while all this was doing in <hi>Dublin,</hi> Soldiers were put on board every Ship, and pla<g ref="char:EOLhyphen"/>ced at all the Paſſages by <hi>Rings-End,</hi> to prevent any ones eſcaping; theſe Guards yet continue, and 'twas diſmal to ſee how many poor people were turn'd back by the Soldiers af<g ref="char:EOLhyphen"/>ter they had been firſt rifled and barbarouſly uſed; Some en<g ref="char:EOLhyphen"/>deavouring to eſcape, were ſhot at and wounded, and leſt any Ship ſhould ſteal away the Sails of moſt of them were taken to Town; laſt <hi>Thurſday</hi> Orders were ſent to Sheriffs of every County to ſeize the Real and Perſonal Eſtates of all Perſons now out of the Kingdom. Yeſterday a ſolemn Proceſſion of the Hoſt was to be made through the principal Street of <hi>Dublin,</hi> for a bleſſing upon their Deſigns; they talk'd too that a Proclamation would ſuddenly be iſſued for Perſons to bring in their Plate to be Coined; and that the Forces would this day march towards the North. The King has long been confidently expected, and we have 2 or 3 times had falſe Alarms of his Landing in <hi>Munſter,</hi> and made Bonfires on that occaſion, but on <hi>Friday,</hi> when I came away, there was no ſuch thing,
+<pb n="6" facs="tcp:95102:4"/>though my Lord <hi>Dungan</hi> and Captain <hi>Arthur</hi> (who Landed in <hi>Ireland</hi> a week ago) ſaid he was at Sea. What frighten'd me moſt away was the aſſurance I had that a new Teſt or Oath would be impos'd on all perſons which no Proteſtant could take with a ſafe Conſcience.</p>
+            <p>I believe I have tired you with this long Melancholy Let<g ref="char:EOLhyphen"/>ter, I have not now time to write to others of my Friends, but I know you will communicate this account, I thank God I am come to a Countrey, where I can plainly tell all this Story, and once more ſubſcribe my Name, and own my ſelf</p>
+            <closer>
+               <signed>Your moſt obliged humble Servant, <hi>A. A.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:95102:4"/>
+            <head>By the Lord Deputy-Genral, &amp; General-Governor of His Majeſties Kingdom of <hi>Ireland;</hi> A DECLARATION.</head>
+            <opener>
+               <salute>TYRCONNEL,</salute>
+            </opener>
+            <p>WHereas having been certainly informed, That the Prince of <hi>Orange</hi> intends to invade this His Majeſties Kingdom; Who upon the Landing of his Forces, will endeavour to poſſeſs himſelf of all the Arms, Am<g ref="char:EOLhyphen"/>munition and Horſes in the Cuſtody of private Perſons, as well to ſtrengthen his own Party, as to weaken His Majeſties Intereſt; and having found that ſeveral with Horſes and Arms went out of this City to the North of <hi>Ireland,</hi> and other Places of this Realm, to joyn with the Rebels there; for the prevention whereof, and to pre<g ref="char:EOLhyphen"/>vent the Anger that may happen in leaving Arms and Horſes in the Hands of thoſe that are not of the Army, have thought fit for His Majeſties Service, to ſeize up<g ref="char:EOLhyphen"/>on all the Arms and ſerviceable Horſes within the City of <hi>Dublin,</hi> and the Suburbs thereof; and to that end, have given Orders to ſeveral Officers of the Army, with ſeveral Parties of Horſe, Foot and Dragoons, to ſeize the ſaid Arms and Horſes for His Majeſties <g ref="char:V">Ʋ</g>ſe: And to prevent any Diſorder that might be committed by the Soldiers in ſearching for Arms in private Houſes, We have directed the Lord Moyor and ſeveral of the Common-Council of the City to give notice to the ſeveral Inhabitants of <hi>Dublin</hi> of Our ſaid Intention. And though We are certainly informed that the Inhabitants of this City have a conſiderable Quantity of Arms and Am<g ref="char:EOLhyphen"/>munition; yet to fruſtrate Our Intentions, have con<g ref="char:EOLhyphen"/>cealed
+<pb n="8" facs="tcp:95102:5" rendition="simple:additions"/>them, ſo as very few are produced, to the great prejudice of His Majeſties Affairs; We do therefore ſtrictly charge all Inhabitants, Dwellers, and all other Perſon or Perſons whatſoever within the City of <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> and the Suburbs thereof, and within the Liberties of St. <hi>Thomas Court,</hi> and St. <hi>Sepulchre,</hi> being not of His Majeſties Privy Council, or of the ſtanding Army, forthwith to repair with all their Arms, Ammuni<g ref="char:EOLhyphen"/>tion, Swords or Baggonets, to the Church-Door of every Pariſh where they ſeverally dwell, and to deli<g ref="char:EOLhyphen"/>ver them to the Officers there appointed by <g ref="char:V">Ʋ</g>s to receive the ſame, as they and every of them ſhall anſwer the contrary at their Peril: Hereby declaring, That if any Perſon or Perſons whatſoever ſhall in contempt of theſe Our Orders, neglect producing their Fire-Arms, Ammu<g ref="char:EOLhyphen"/>nition, Swords, and Baggonets, according to the Directi<g ref="char:EOLhyphen"/>ons aforeſaid, their Houſes and all ſecret Places therein, ſhall be ſearched by the Souldiers with all the Care ima<g ref="char:EOLhyphen"/>ginable; and if upon ſearch made, any Fire-Arms, Am<g ref="char:EOLhyphen"/>munition, Swords and Baggonets ſhall be found therein, We do hereby declare, That ſuch Perſon and Perſons where any ſuch Arms ſhall be found, ſhall not only be pu<g ref="char:EOLhyphen"/>niſhed as Contemners of theſe Our Orders, but muſt run the Riſque of the ill Conſequences which may fall upon them by Diſorders of the Souldiers; hereby further de<g ref="char:EOLhyphen"/>claring and aſſuring, that all Perſons who ſhall com<g ref="char:EOLhyphen"/>ply with theſe Our Commands, ſhall be protected in all other their Goods without the leaſt Moleſtation or Preju<g ref="char:EOLhyphen"/>dice; excepting out of this Order the Swords of all Perſons of Quality and Gentlemen, who may keep the ſame for their own Wearing.</p>
+            <closer>
+               <dateline>Given at His Majeſties Caſtle of <hi>Dublin,</hi> 
+                  <date>the 25th. Day of <hi>Febr.</hi> in the 5th. Year of His Majeſties Reign, and in the Year of our Lord 1688.</date>
+               </dateline> 
+               <signed>W. ELLIS.</signed>
+               <lb/> God ſave the King.</closer>
+            <pb facs="tcp:95102:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
